@@ -1,6 +1,6 @@
-# Payment Retry Engine
+# PayFlow
 
-O **Payment Retry Engine** é um microsserviço robusto, desenvolvido em NestJS, projetado para o processamento assíncrono de transações financeiras. O foco principal do sistema é garantir **resiliência, idempotência e conformidade rigorosa com normas de segurança (PCI-DSS)** durante cenários de falha na comunicação com gateways de pagamento externos.
+O **PayFlow** é um microsserviço robusto, desenvolvido em NestJS, projetado para o processamento assíncrono de transações financeiras. O foco principal do sistema é garantir **resiliência, idempotência e conformidade rigorosa com normas de segurança (PCI-DSS)** durante cenários de falha na comunicação com gateways de pagamento externos.
 
 ---
 
